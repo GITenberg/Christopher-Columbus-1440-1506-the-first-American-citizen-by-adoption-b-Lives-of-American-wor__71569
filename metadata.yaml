@@ -1,0 +1,32 @@
+_repo: Christopher-Columbus-1440-1506-the-first-American-citizen-by-adoption-b-Lives-of-American-wor__71569
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alden, W. L. (William Livingston)
+    aliases:
+    - Alden, William Livingston
+    - Brown, Jimmy
+    birthdate: 1837
+    deathdate: 1908
+    gutenberg_agent_id: '34366'
+    url: http://www.gutenberg.org/2009/agents/34366
+    wikipedia: https://en.wikipedia.org/wiki/William_L._Alden
+description: ''
+gutenberg_issued: '2023-09-05'
+identifiers:
+  gutenberg: '71569'
+language: en
+pgterms:marc905: 20220602144445alden
+pgterms:marc906: '1881'
+pgterms:marc907: US
+production_note: hekula03 and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bHenry Holt and Company, $c1881.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Christopher Columbus (1440-1506): the first American citizen (by adoption)
+  : $b Lives of American worthies'
+url: http://www.gutenberg.org/ebooks/71569
