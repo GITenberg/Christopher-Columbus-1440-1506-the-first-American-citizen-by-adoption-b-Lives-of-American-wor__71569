@@ -1,5 +1,8 @@
 _repo: Christopher-Columbus-1440-1506-the-first-American-citizen-by-adoption-b-Lives-of-American-wor__71569
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71569-h/images/cover.jpg
 creator:
   author:
     agent_name: Alden, W. L. (William Livingston)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34366
     wikipedia: https://en.wikipedia.org/wiki/William_L._Alden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71569#Christopher-Columbus-1440-1506-the-first-American-citizen-by-adoption-b-Lives-of-American-wor_
 gutenberg_issued: '2023-09-05'
 identifiers:
   gutenberg: '71569'
